@@ -30,5 +30,48 @@ sudo apt-get dist-upgrade
 ## 笔记
 
 * [之一](./001.md)
+  * [FortiClient VPN 客户端](001.md#forticlient-vpn-%E5%AE%A2%E6%88%B7%E7%AB%AF)
+  * [EasyConnect VPN 客户端](001.md#easyconnect-vpn-%E5%AE%A2%E6%88%B7%E7%AB%AF)
+  * Docker
+  * C & C++
+  * Nodejs
+  * JDK
+  * Golang
+  * Python
+  * Rust
+  * VS Code
+  * Electerm
+  * Remmina
+  * Insomnia
+  * Typora
+  * Joplin
+  * KeepassXC
+  * Seafile
+  * 坚果云
+  * WPS
+  * FlameShot 火焰截图
+  * GIMP
+  * 网易云音乐
+  * Chrome
+  * 微信
+  * fqterm
 * [之二](./002.md)
+  * XMind
+  * MindMaster
+  * Sublime Text 3
+  * Umbrello
+  * drawio
+  * Pencil
+  * 中望 CAD
+  * Krita 绘图工具
+  * DBeaver
+  * 有道词典
+  * VeraCrypt
+  * Cryptomator
+  * 腾讯视频客户端
+  * QQ 音乐
 * [之三](./003.md)
+  * 铜豌豆 Linux 软件
+  * VirtualBox
+  * xDroid
+  * GitAhead
