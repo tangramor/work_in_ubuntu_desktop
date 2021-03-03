@@ -75,3 +75,6 @@ sudo apt-get dist-upgrade
   * [VirtualBox](003.md#virtualbox)
   * [xDroid](003.md#xdroid)
   * [GitAhead](003.md#gitahead)
+  * [Double Commander](003.md#double-commander)
+  * [福昕 PDF 阅读器](003.md#%E7%A6%8F%E6%98%95-pdf-%E9%98%85%E8%AF%BB%E5%99%A8)
+  * [EverNote 第三方客户端](003.md#evernote-%E7%AC%AC%E4%B8%89%E6%96%B9%E5%AE%A2%E6%88%B7%E7%AB%AF)
