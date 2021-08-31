@@ -83,6 +83,7 @@ sudo apt-get dist-upgrade
   * [digiKam 相册管理](003.md#digikam-%E7%9B%B8%E5%86%8C%E7%AE%A1%E7%90%86)
   * [Kazam 录屏软件](003.md#kazam-%E5%BD%95%E5%B1%8F%E8%BD%AF%E4%BB%B6)
   * [Kdenlive 视频编辑](003.md#kdenlive-%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91)
+  * [洛雪音乐助手](003.md#%E6%B4%9B%E9%9B%AA%E9%9F%B3%E4%B9%90%E5%8A%A9%E6%89%8B)
 
 
 
