@@ -40,6 +40,7 @@ sudo apt-get dist-upgrade
   * [Python](001.md#python)
   * [Rust](001.md#rust)
   * [VS Code](001.md#vs-code)
+  * [WindTerm SSH客户端管理](001.md#windterm)
   * [Electerm SSH客户端管理](001.md#electerm)
   * [Remmina 远程访问管理](001.md#remmina)
   * [Insomnia API测试](001.md#insomnia)
